@@ -22,12 +22,12 @@ Este repositorio contiene los **recursos gráficos y de marca** de MeshChile:
 ### 1) Desde GitHub directamente
 Puedes usar la URL raw de GitHub para enlazar los recursos:
 
-    https://raw.githubusercontent.com/Mesh-Chile/assets/main/logos/logo-square.png
+    https://raw.githubusercontent.com/Mesh-Chile/assets/main/logos/logo-color.png
 
 ### 2) Usando CDN gratuito (recomendado)
 Gracias a jsDelivr, todos los archivos de este repo se sirven vía CDN:
 
-    https://cdn.jsdelivr.net/gh/Mesh-Chile/assets/logos/logo-square.png
+    https://cdn.jsdelivr.net/gh/Mesh-Chile/assets/logos/logo-color.png
 
 Esto asegura **cache global, alta disponibilidad y mejor velocidad**.
 
